@@ -1,0 +1,68 @@
+
+header{
+     background-color: rgb(255, 116, 162);
+     padding: 20px 40px;
+     text-align: center;
+     width: 100%;
+     font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.header2{
+     color: rgb(71, 2, 34);
+     font-size: 17px;
+}
+
+.foto-perfil{
+     border-radius: 50px;
+     margin-top: 20px;
+     border: 4px dotted rgb(211, 38, 110);
+     box-shadow: 0 4px 10px rgb(54, 1, 26) ;
+     text-align: center;
+
+}
+
+h1 {
+     text-align: center;
+}
+
+footer{
+     text-align: center;
+     background-color: rgb(255, 116, 162);
+     padding: 20px 20px;
+     text-align: center;
+     width: 100%;
+     font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+     color: rgb(104, 17, 46);
+     font-family: Arial, Helvetica, sans-serif;
+     text-align: center;
+}
+
+main h2{
+     text-align: center;
+     color: rgb(104, 17, 46);
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 20px;
+}
+
+main{
+     margin-top: 20px;
+     background-color: rgb(255, 186, 218);
+     border-radius: 10px;
+     box-shadow: 5px 5px 15px rgba(1, 2, 0, 0.5);
+     width: 600px;
+     padding: 10px;
+     margin: auto;
+     text-align: center;
+     
+}
+
+body {
+     background-color: rgb(255, 220, 231);
+     margin: 0;
+     padding: 0;
+     
+}
